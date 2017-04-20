@@ -2,7 +2,7 @@
 #include <conio.h>
 main()
 {
-        int a[10],i,n;
+        int a[10],i,naaaaaa;
         int pom;
         do
         {
