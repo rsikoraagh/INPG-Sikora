@@ -8,19 +8,18 @@ main()
         {
                 printf("\n Podaj ilosc elementow tablicy a: \n n = ");
                 scanf("%d",&n);
-        }
+        }222
         while(n<1||n>20);
         for(i=0;i<n;i++)
         {
                 printf(" Podaj a[%d] = ",i);
-                scanf("%d",&a[i]);
+                scanf("%d",&a[i]);222
         }
         do
         {
                 info=0;
                 for(i=1;i<n;i++)
-                {
-                        if(a[i-1]>a[i])
+                {222>a[i])
                         {
                                 pom=a[i-1];
                                 a[i-1]=a[i];
