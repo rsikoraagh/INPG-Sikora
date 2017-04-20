@@ -20,7 +20,7 @@ main()
         else
                 printf("\n Nie wczytales elementow tablicy A!");
         getch();
-        return 0;
+        return 0; //Byłem tutaj
 }
 
 
